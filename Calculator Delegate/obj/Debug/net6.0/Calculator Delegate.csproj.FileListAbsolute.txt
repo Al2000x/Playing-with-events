@@ -1,0 +1,15 @@
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\obj\Debug\net6.0\Calculator Delegate.csproj.AssemblyReference.cache
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\obj\Debug\net6.0\Calculator Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\obj\Debug\net6.0\Calculator Delegate.AssemblyInfoInputs.cache
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\obj\Debug\net6.0\Calculator Delegate.AssemblyInfo.cs
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\obj\Debug\net6.0\Calculator Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\bin\Debug\net6.0\Calculator Delegate.exe
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\bin\Debug\net6.0\Calculator Delegate.deps.json
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\bin\Debug\net6.0\Calculator Delegate.runtimeconfig.json
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\bin\Debug\net6.0\Calculator Delegate.dll
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\bin\Debug\net6.0\Calculator Delegate.pdb
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\obj\Debug\net6.0\Calculator Delegate.dll
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\obj\Debug\net6.0\refint\Calculator Delegate.dll
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\obj\Debug\net6.0\Calculator Delegate.pdb
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\obj\Debug\net6.0\Calculator Delegate.genruntimeconfig.cache
+C:\Users\Administrator-managr\source\repos\table Adder and deleter\Calculator Delegate\Calculator Delegate\obj\Debug\net6.0\ref\Calculator Delegate.dll
